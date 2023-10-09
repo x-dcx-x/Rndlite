@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+    font-size: 65.5%;
+}
+
+
+
+.h1{
+    text-transform:uppercase;
+}
+.text{
+    color: blue;
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+}
